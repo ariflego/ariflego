@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello!
+I am currently a student, studying programming languages like:
+
+- Python
+- PHP
+- SQL
+- and more!
+
+(This is my first time using GitHub, sowwy.)
 
 <!--
 **ariflego/ariflego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
